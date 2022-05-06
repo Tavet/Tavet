@@ -5,6 +5,8 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Programación paralela en Java con el framework Fork/Join](https://medium.com/@breyner_/programaci%C3%B3n-paralela-en-java-con-el-framework-fork-join-f8e86db9bfc8?source=rss-f8e5e415dd5a------2)
+- [Navegación entre componentes en Angular con NgRx](https://medium.com/@breyner_/navegaci%C3%B3n-entre-componentes-en-angular-con-ngrx-449dbb752db2?source=rss-f8e5e415dd5a------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me</h3>
